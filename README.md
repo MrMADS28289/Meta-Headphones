@@ -1,6 +1,6 @@
 # Meta Headphone-Reviews web-site
 
-Go to live site [Meta Headphone-Reviews](url).
+Go to live site [Meta Headphone-Reviews](https://assignment-9-mr-mads.netlify.app/).
 Git link [Go to git-hub](https://github.com/programming-hero-web-course-4/product-analysis-website-MrMADS28289).
 
 * this is a product website
