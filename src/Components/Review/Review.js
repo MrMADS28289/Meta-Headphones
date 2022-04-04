@@ -13,7 +13,7 @@ const Review = (props) => {
             <div>
                 <img className='rounded-[50%] h-14 w-14' src={img} alt="" />
             </div>
-            <h1 className='text-xl font-bold'>Name: {name}</h1>
+            <h1 className='text-xl font-bold mt-3'>{name}</h1>
             <h5><Rating
                 initialRating={rating}
                 emptySymbol={<FontAwesomeIcon icon={faStar} />}
