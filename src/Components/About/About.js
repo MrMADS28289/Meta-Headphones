@@ -1,6 +1,7 @@
 import React from 'react';
 
 const About = () => {
+
     return (
         <>
             <div className='flex flex-col m-16 p-8 items-center bg-[#FAFAFA]'>

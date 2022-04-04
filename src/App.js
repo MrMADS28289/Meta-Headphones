@@ -10,6 +10,7 @@ import Footer from './Components/Footer/Footer';
 import NotFound from './Components/NotFound/NotFound';
 
 function App() {
+
   return (
     <div>
       <NavBar></NavBar>
