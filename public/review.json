@@ -1,0 +1,106 @@
+[
+    {
+        "id": "6249c7872037d68bd5efb097",
+        "img": "https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699__340.jpg",
+        "rating": 4,
+        "name": "Reese Moreno",
+        "gender": "male",
+        "review": "Excepteur sunt veniam amet cupidatat deserunt anim dolore consequat qui. Culpa veniam eu nisi enim officia esse qui"
+    },
+    {
+        "id": "6249c787c56718db9b7c44c3",
+        "img": "https://cdn.pixabay.com/photo/2015/03/03/20/42/man-657869__340.jpg",
+        "rating": 3,
+        "name": "Palmer Roberts",
+        "gender": "male",
+        "review": "Elit consectetur voluptate est quis labore ullamco. Aliquip aliqua eu cillum laboris consequat tempor amet occaecat commodo eu. Magna quis excepteur tempor culpa amet proident ullamco "
+    },
+    {
+        "id": "6249c7872c5ee9cce70eb0b8",
+        "img": "https://cdn.pixabay.com/photo/2017/06/26/02/47/man-2442565__340.jpg",
+        "rating": 4,
+        "name": "Hope Short",
+        "gender": "female",
+        "review": "Deserunt proident incididunt sit reprehenderit incididunt fugiat dolor do non deserunt in non laborum. Do consequat fugiat sunt consectetur magna nisi Lorem velit. "
+    },
+    {
+        "id": "6249c78707a6e95a9b619b8f",
+        "img": "https://cdn.pixabay.com/photo/2018/01/11/09/52/woman-3075756__340.jpg",
+        "rating": 4,
+        "name": "Corine Cherry",
+        "gender": "female",
+        "review": "Pariatur exercitation dolore qui et officia voluptate excepteur dolore eu reprehenderit non minim consectetur pariatur. Ut non adipisicing labore duis commodo est laboris laborum. Consectetur ad nostrud laborum sunt voluptate tempor."
+    },
+    {
+        "id": "6249c7874c65bca7f249e0bb",
+        "img": "https://cdn.pixabay.com/photo/2020/06/12/10/50/dressed-5290056__340.jpg",
+        "rating": 3,
+        "name": "Merritt Hardin",
+        "gender": "male",
+        "review": "Elit sunt voluptate non nostrud. Minim elit amet magna eu consectetur mollit duis. Sint aute aute officia velit eiusmod. "
+    },
+    {
+        "id": "6249c787082ab1e7ae95fc15",
+        "img": "https://cdn.pixabay.com/photo/2015/07/20/12/57/ambassador-852766__340.jpg",
+        "rating": 5,
+        "name": "Moon Barton",
+        "gender": "male",
+        "review": "Consequat nulla incididunt eiusmod enim reprehenderit consectetur labore ut. Laborum enim enim aute consectetur laboris cupidatat nisi voluptate ea enim irure magna incididunt. "
+    },
+    {
+        "id": "6249c787511969e3a69a3565",
+        "img": "https://cdn.pixabay.com/photo/2017/08/12/18/31/male-2634974__340.jpg",
+        "rating": 5,
+        "name": "Whitaker Barber",
+        "gender": "male",
+        "review": "Minim in eu eu eu voluptate voluptate ipsum veniam aliquip enim amet. Ea ex excepteur in voluptate aliqua sit. Ea cupidatat est dolor ipsum ut ex officia qui esse."
+    },
+    {
+        "id": "6249c7875c04e441155a2848",
+        "img": "https://cdn.pixabay.com/photo/2015/01/12/10/44/woman-597173__340.jpg",
+        "rating": 5,
+        "name": "Bobbi Ramirez",
+        "gender": "female",
+        "review": "Velit consequat voluptate aute enim voluptate cupidatat in. Occaecat in sint aliquip Lorem reprehenderit ex et elit occaecat excepteur cillum."
+    },
+    {
+        "id": "6249c787a3383a269b312745",
+        "img": "https://cdn.pixabay.com/photo/2018/08/04/20/48/woman-3584435__340.jpg",
+        "rating": 3,
+        "name": "Hattie Mayo",
+        "gender": "female",
+        "review": "Esse dolore nostrud consectetur pariatur ex. In laborum sit mollit elit exercitation nostrud amet laborum labore dolor. "
+    },
+    {
+        "id": "6249c7873915a2d291b5045b",
+        "img": "https://cdn.pixabay.com/photo/2016/09/24/03/20/man-1690965__340.jpg",
+        "rating": 4,
+        "name": "Nolan Preston",
+        "gender": "male",
+        "review": "Elit eu aute duis ipsum voluptate labore pariatur magna fugiat cillum cillum mollit sunt ea. Excepteur laborum est minim occaecat et non labore velit Lorem ullamco. Elit ea reprehenderit fugiat commodo"
+    },
+    {
+        "id": "6249c7877163d0d733385c29",
+        "img": "https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907__340.jpg",
+        "rating": 3,
+        "name": "Tabatha Cooley",
+        "gender": "female",
+        "review": "Sit ex anim duis in cupidatat consectetur nostrud est velit anim laborum fugiat eu."
+    },
+    {
+        "id": "6249c7870f5eed682853f552",
+        "img": "https://cdn.pixabay.com/photo/2017/12/22/14/42/girl-3033718__340.jpg",
+        "rating": 5,
+        "name": "Genevieve Battle",
+        "gender": "female",
+        "review": "Amet ea aliquip incididunt ex eiusmod dolor fugiat. Nulla fugiat sint culpa eiusmod excepteur adipisicing occaecat quis eiusmod. Elit officia adipisicing incididunt laboris ad eiusmod eiusmod incididunt et. Veniam consequat "
+    },
+    {
+        "id": "6249c7875fd06b474ae0969a",
+        "img": "https://cdn.pixabay.com/photo/2015/08/05/04/25/people-875617__340.jpg",
+        "rating": 4,
+        "name": "Parrish Snider",
+        "gender": "male",
+        "review": "Ad minim qui mollit sit sunt nisi tempor ullamco duis elit non ea ullamco. Pariatur reprehenderit anim enim consequat duis eu deserunt adipisicing aliquip incididunt non. "
+    }
+]
