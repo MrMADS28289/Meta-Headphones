@@ -3,7 +3,7 @@
 Go to live site [Meta Headphone-Reviews](url).
 Git link [Go to git-hub](https://github.com/programming-hero-web-course-4/product-analysis-website-MrMADS28289).
 
-Markup : * this is a product website
+* this is a product website
 * you can see ratigs
 * you can read blogs
 * the site is responsive
